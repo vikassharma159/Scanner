@@ -22,7 +22,7 @@ allprojects {
     }
 
     ext {
-        camerax_version = "1.0.0-alpha04"
+        camerax_version = "1.0.0"
     }
 }
 
